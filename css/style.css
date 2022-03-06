@@ -40,3 +40,17 @@
   a {
       color: #606C76;
   }
+
+  footer {
+    bottom: 0;
+    width: 100vw;
+    position: fixed;
+  }
+
+  hr {
+      color: #4c565e;
+  }
+
+  p{
+      text-align: justify;
+  }
